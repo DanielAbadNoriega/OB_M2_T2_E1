@@ -1,4 +1,6 @@
-# Open Bootcam: HTML&CSS. Tema 2: Ejercicio 1.
+# Open Bootcam: HTML&CSS. 
+
+## Tema 2: Ejercicio 1.
 
 > 1. Crea un nuevo documento HTML que cumpla los siguientes parámetros:
 > 
